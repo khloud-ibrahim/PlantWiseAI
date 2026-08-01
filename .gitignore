@@ -1,0 +1,41 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# EF
+Migrations/
+
+# Node
+node_modules/
+
+# React
+dist/
+
+# AI
+*.onnx
+*.gguf
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db

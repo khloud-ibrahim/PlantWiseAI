@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PlantWise.API/PlantWise.API.csproj" />
+  <Project Path="PlantWise.Application/PlantWise.Application.csproj" />
+  <Project Path="PlantWise.Domain/PlantWise.Domain.csproj" />
+  <Project Path="PlantWise.Infrastructure/PlantWise.Infrastructure.csproj" />
+  <Project Path="PlantWise.Shared/PlantWise.Shared.csproj" />
+</Solution>
